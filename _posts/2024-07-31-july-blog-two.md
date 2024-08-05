@@ -2,7 +2,7 @@
 layout: post
 title: "July 2024"
 description: "Mirrors, Maids, and Mischief"
-date: 2024-06-31
+date: 2024-07-31
 feature_image: images/santiagoAtitlan.png
 ---
 
