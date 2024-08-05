@@ -22,4 +22,4 @@ Despite oral narratives being a pillar for Indigenous storytelling, my father st
 
 The best way to describe this emotion is through the following excerpt Riley presented me with:
 
-"The other day, I peeked into a Church past sundown and saw a woman laying in the aisle, her head pressed into the burgundy carpet—I understood." (Eliza McLamb)
+>"The other day, I peeked into a Church past sundown and saw a woman laying in the aisle, her head pressed into the burgundy carpet—I understood." (Eliza McLamb<https://www.wordsfromeliza.com/p/the-love-i-know?r=jcj1n&utm_medium=ios&fbclid=PAZXh0bgNhZW0CMTEAAaaf6edUQ_iVFyiazCi8mVrXIZSeywQlEDfo6vRsxBaz8QaZA0PVmB9amTk_aem_Y19zsGRm2KGQBmYIkdqquQ&triedRedirect=tr>)
