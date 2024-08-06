@@ -18,7 +18,7 @@ Even while investigating the history of my father's hometown—Chivarreto, Toton
 
 To best explain how difficult our Indigenous and migrant story is for me to digest, I should clarify that K'iche' translates literally to "many trees" or forest. Listening to my family's history and experiences during the armed conflict inserts the image of wildfires and forest slashings, the senseless violence against the K'iche' people and their homes. 
 
-Despite oral narratives being a pillar for Indigenous storytelling, my father struggles to describe his childhood in Guatemala. Instead, history forces me to keep his story, yet it is something I can never hold. 
+Despite oral narratives and storytelling being pillars of Indigenous history, my father struggles to describe his childhood in Guatemala. Instead, our family's trauama forces me to keep his story, yet it is something I can never hold. 
 
 The best way to describe this emotion is through the following excerpt Riley presented me with:
 
