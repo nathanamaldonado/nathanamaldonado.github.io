@@ -12,7 +12,7 @@ The most challenging aspect of living so far from home is forfeiting the opportu
 
 Later, my family sent me away, and I struggled to articulate a goodbye, knowing that I had the privilege of citizenship and travel. Even after experiencing death after my seventeen-hour-long back tattoo, this farewell wounded me like a train running itself across my body and life. I cannot get enough. 
 
-Watching the London skyline from my high-rise apartment meant a painfully stunning video call with my family as they said: please travel the world for me. This brought me back to spending time with Irma, staring at my ceiling, saying nothing, as we watched the <a href="https://www.youtube.com/watch?v=SL_YMm9C6tw" target="_blank">audition scene from La La Land</a>. Thank you for being a fool with me. 
+Watching the London skyline from my high-rise apartment meant a painfully stunning video call with my family as they said: please travel the world for me. This brought me back to spending time with Irma, staring at my ceiling, saying nothing, as we watched the <a href="https://www.youtube.com/watch?v=SL_YMm9C6tw" target="_blank">audition scene from La La Land</a>. Thank you for dreaming with me. 
 
 I share and extend this gratitude to everyone I have been lost with since arriving in London. Thank you to Mina, Vysa, Fatouma, Mathis, Summer, Lia, Nancy, Sarah, Sophie, and Rishi. 
 
