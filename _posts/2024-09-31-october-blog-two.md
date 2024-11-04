@@ -24,9 +24,9 @@ Anywho, I roamed the city with the voices of my friends, family, and teachers fr
 
 After visiting Oxford once I got back from Prague, I took the first train back to London to reunite with Saphal and Brock, who would be staying with me. We were finally roommates again, and before I left for class Monday morning, I left the blinds closed so the sunlight wouldn't wake them. Later, at 3PM, I got a text from Saphal that they had only just now woken up after sleeping for nearly fifteen hours. 
 
-Eventually, their planes took off, and I spent my last few days of October in Oxford watching horror movies and drinking cheap wine, amidst other things, alongside all the same wonderful faces as before: Sarah, Sophie, Rishi, Nancy, Lia, and Aubteen. 
+Eventually, their planes took off, and I spent my last few days of October in Oxford watching psychological thrillers and drinking cheap wine, alongside all the same wonderful faces as before: Sarah, Sophie, Rishi, Nancy, Lia, and Aubteen. 
 
-Before leaving, though, I roamed the gardens alone and made plans back in London with Mina, Summer, Vysa, Fatouma, Nevena, and Isa. Seemingly, I could feel time fleeting as I read and re-read emails reminding us that our time abroad was coming to an end. 
+Before leaving, though, I roamed the gardens alone and made plans back in London with friends(s). Seemingly, I could feel time fleeting as I read and re-read emails reminding us that our time abroad was coming to an end. 
 
 Not yet, though. 
 
