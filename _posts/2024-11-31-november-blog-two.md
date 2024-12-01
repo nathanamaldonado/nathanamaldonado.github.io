@@ -44,9 +44,9 @@ Eventually, their plane landed in Madrid, and mine in Barcelona only shortly aft
 
 I could spend this lifetime and my rest learning all the world's languages that are and ever were and still never describe the love I hold for Aaron and Irma. 
 
-## Final Dayss
+## Final Days
 Once my plane arrived from Madrid, Thanksgiving soon approached, and I fled to Oxford, where Aubteen had invited me as family to the Hertford College Thanksgiving. There, I dropped my fork with a crash so loud I finally began to understand the British culture of shame.
 
 My November ended with yet another trip to the Faltering Fullback with Mattis. Upon showing him my latest read, he let me know the translation of a French passage was wrong: mérite un detour ("stop by if it is on the way"). Instead, he insisted, it means "stop by if it is *sort of* on the way." 
 
-Finally, to all the incredible people I have met, I hope we see each other if it *mérite un detour*. See you! 
+So, to all the incredible people I have met, I hope we see each other if it *mérite un detour*. See you soon! 
