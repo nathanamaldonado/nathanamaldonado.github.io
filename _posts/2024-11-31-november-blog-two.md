@@ -3,7 +3,7 @@ layout: post
 title: "November 2024 (Extended)"
 description: ""
 date: 2024-11-30
-feature_image: images/barcelona
+feature_image: images/barcelona.png
 ---
 
 I had only ever seen white people on television or in front of a classroom. I could never begin to understand why a man of color, as President of the United States, could even make headlines. Then, I finally met a *white, white* person. I understood. 
