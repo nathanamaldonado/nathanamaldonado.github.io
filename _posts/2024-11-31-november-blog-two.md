@@ -25,13 +25,13 @@ Finally, I touched down in Milan, where I spent the day in antique stores findin
 
 At every introduction, I would murmur, "I am *so* sorry, but do you speak English?" To which one server replied, "Yes, how can I help you?" "Could I have a fork?" "What?" "Uh, fork? Tenedor? Fourchette?" After some time, another patron interrupted and hissed, "Una forchetta!" As if that had been so dissimilar from what I had been saying. 
 
-I eventually left for Venice and called my parents to wish them sweet dreams while I was only now starting my day. The Mediterranean climate imitated the landscape of the California Central Valley, and for a brief second, I was on my way home. 
+I eventually left for Venice and called my parents to wish them sweet dreams while I was only now starting my day. The Mediterranean climate imitated the landscape of Central California, and for a brief second, I was on my way home. 
 
 Amidst all the tourist attractions, cheap wine, and overpriced pasta, I found myself people-watching. This latest exhibition highlighted four women of a certain age, sisters or lifelong friends, feeding seagulls and pigeons—their laughter growing louder and louder. 
 
 One could wonder if Americans are truly louder or if Europeans are not as focused on themselves but on others.
 
-A young boy crawled up to them and asked for breadcrumbs to feed the birds. These women looked at each other and threw their bags of croutons at the boy, insisting he occupy the rest of his night teasing the Venetian wildlife. 
+A young boy crawled up to them and asked for breadcrumbs to feed the birds. These women looked at each other and threw their bags of croutons at the boy, insisting he occupy the rest of his evening teasing the Venetian wildlife. 
 
 ## Londres, Barcelona, y Madrid
 Eventually, Aaron and Irma landed in London, and our journey started with Paddington in Peru, later a tour of Tower Bridge and, finally, the Faltering Fullback. 
@@ -40,13 +40,13 @@ Somewhere along the way, I lost some jewelry, yet Irma reminded me this was proo
 
 > Tell me what you do for love, loyalty, and passion of / All the memories collected, moments you could never touch (XXX)
 
-Eventually, their plane landed in Madrid, and mine in Barcelona only shortly after. Irma gave me an insight into her life these last few months, and our people-watching only continued as we surveyed families in row boats at Parque del Buen Retiro and discussed all those lost or misplaced to time. 
+Eventually, their plane landed in Madrid, and mine in Barcelona only shortly after. Irma gave me an insight into her life these past few months, and our people-watching only continued as we surveyed families in row boats at Parque del Buen Retiro and discussed all those lost or misplaced to time. 
 
 I could spend this lifetime and my rest learning all the world's languages that are and ever were and still never describe the love I hold for Aaron and Irma. 
 
 ## Final Days
 Once my plane arrived from Madrid, Thanksgiving soon approached, and I fled to Oxford, where Aubteen had invited me as family to the Hertford College Thanksgiving. There, I dropped my fork with a crash so loud I finally began to understand the British culture of shame.
 
-My November ended with yet another trip to the Faltering Fullback with Mattis. Upon showing him my latest read, he let me know the translation of a French passage was wrong: mérite un detour ("stop by if it is on the way"). Instead, he insisted, it means "stop by if it is *sort of* on the way." 
+My November ended, though, with yet another trip to the Faltering Fullback with Mattis. Upon showing him my latest read, he let me know the translation of a French passage was wrong: mérite un detour ("stop by if it is on the way"). Instead, he insisted, it means "stop by if it is *sort of* on the way." 
 
-So, to all the incredible people I have met, I hope we see each other if it *mérite un detour*. See you soon! 
+So, to all the incredible people I have met, I hope we will see each other again if it *mérite un detour*. See you soon! 
