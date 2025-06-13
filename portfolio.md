@@ -11,7 +11,7 @@ As a Haung Fellow at Duke University, I investigated artificial intelligence bia
 
 [<!--more-->](https://drive.google.com/file/d/1SDBlkrIhohgH2ri4ZM_YxBSWK0YMoHv3/view?usp=sharing){:target="_blank"}
 
-## Fast Food Consumer Sentiment Analysis
+## Consumer Sentiment Analysis
 
 Through Computational Approaches to Human Language (LINGUIST 211) and in collaboration with Sedi Danku and Ethan Episcope, we examined trends from McDonald's store reviews to determine customer sentiment, geographic patterns, and temporal trends across the United States through Statistical Analysis System (SAS) methodologies.
 
