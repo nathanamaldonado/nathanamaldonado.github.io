@@ -2,7 +2,7 @@
 layout: page
 title: About this blog
 description: Okay, but why should I care?
-feature_image: images/about.png
+feature_image: images/about.jpg
 ---
 
 Hello, I am a first-generation, low-income college student pursuing a degree in linguistics, computer science, and psychology at Duke through the University Scholars Program and Gates Foundation. 
