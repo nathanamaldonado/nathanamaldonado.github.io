@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "January 2025"
-description: ""
+description: "Snowfall, Chainsmoking, and Wildfires"
 date: 2025-01-31
 feature_image: images/sftwinpeaks.JPG
 ---
