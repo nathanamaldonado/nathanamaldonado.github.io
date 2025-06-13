@@ -3,13 +3,13 @@ layout: post
 title: "January 2025"
 description: ""
 date: 2025-01-31
-feature_image: images/sanfranpaintedladies.jpg
+feature_image: images/sftwinpeaks.JPG
 ---
-Every so often, I imagine my life in San Francisco as the software engineer I had been groomed to become, and I picture the former Stanford student who spoke in my seventh-grade science classroom with everything a child of immigrants could want: a Tesla and VR headset. 
+Every so often, I imagine my life in San Francisco as the software engineer I had been groomed to become, and I picture the former Stanford student who spoke in my seventh-grade science classroom with everything a child of immigrants could want. 
 
 <!--more-->
 
-Now, I have come to understand his performance. Returning to North Carolina meant reuniting with friends, especially the seniors, who would be one step removed from all the daydreams and illusions. First, my flight from San Francisco International would have to take off, and I would have to tour my parents around this city I once felt would become my home.  
+Now, I have come to understand his performance. Returning to North Carolina meant reuniting with friends, especially the seniors, who would be one step removed from all the daydreams and illusions. First, though, my flight from San Francisco International would have to take off, and I would have to finally end my tour around this city I once felt would become my home.  
 
 Well, I landed in Durham and found that I would be living with a sophomore, also from San Francisco, named Elliot. He towered over his girlfriend and any audience, yet they both graced me with their rapid composure upon entering the room—his room, he made clear. Now, I await the uncomfortable reassignment so that he and his best friend can live out their life together as one happy family: my roommate, his girlfriend, and his best friend. 
 
