@@ -2,7 +2,7 @@
 layout: post
 title: "Seoul (Field Notes)"
 description: "Duke in Seoul"
-date: 2025-06-30
+date: 2025-07-01
 feature_image: images/seoulnationalmusuem.jpg
 ---
 
