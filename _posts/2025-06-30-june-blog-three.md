@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "June 2025"
-description: ""
-date: 2025-06-30
-feature_image: images/nycphotocamera.jpg
+description: "Beauty Essay"
+date: 2025-06-29
+feature_image: images/fiftiethst.jpg
 ---
 
 This June, I opted for an interruption to the scheduled programming and chose to upload an essay I wrote for Taylor Black in response to our maturing ideas of beauty and New York City. I wrote this paper with my mother and home in mind, spending hours listening to the Strokes while overlooking the Manhattan skyline and smoking Chinese cigarettes from Flushing, Queens. 
