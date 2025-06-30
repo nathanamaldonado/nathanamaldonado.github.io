@@ -16,7 +16,7 @@ Finally, I left campus in a packed car with Aaron, Riley, and Dalya as we headed
 
 Moreover, meals with both their families provided insight into their curation, as short quips between siblings offered Dalya her wit, and unanswered questions offered Riley her enigmatic style. Nevertheless, in between stops, we stopped at William and Mary to visit Lia, Ariana, and Sarah, whose air conditioning unit roared into the night, reminding me of earthquake drills in elementary school in Southern California. In any case, I continued in this direction of goodbyes and was abandoned by these lovely people until August, when the semester began, the start of our senior year. 
 
-{% include image_caption.html imageurl="/images/dtlawsap.jpg" title="Nathan and Irma" caption="Irma and I on Saphal's balcony at his USC apartment" %}
+{% include image_caption.html imageurl="/images/dtlawsap.jpg" title="Nathan and Irma" caption="Irma, Saphal, Jose and I hanging out at their USC apartment overlooking Figueroa" %}
 
 Well, I landed in San Diego and made the journey to La Jolla with Isaak, only to leave quickly thereafter for Irvine with Ethan, where we were met with horror upon finding my godparents at the same dispensary we had been shopping at. Nevertheless, the shock of those few minutes when my godfather asked which strain I preferred meant very little following the events soon to unfold in New York City. 
 
