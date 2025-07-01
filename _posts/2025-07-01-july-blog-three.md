@@ -6,9 +6,13 @@ date: 2025-06-30
 feature_image: images/seoulnationalmusuem.jpg
 ---
 
-My father would often remind me to correct my posture because, at five years old, I would usually lean and hold a conversation with my head tilted off to the side. So, outside our church, every Sunday, he would ask me to mimic his steps exactly, meaning I would eventually adopt the gait of a man in his mid-thirties as a child. Just beyond our church in Koreatown, on Wilshire and Normandie, my father would hold me back while letting my brothers enter the service. 
+Hey, everyone! Glad you found your way, but just wanted to say this is where I will be discussing my time in Seoul. If you don't hate me, you could also check out some of my other blog posts or About section to see what it is I actually do here!
 
 <!--more-->
+
+## \[1\] First Impressions of Seoul
+
+My father would often remind me to correct my posture because, at five years old, I would usually lean and hold a conversation with my head tilted off to the side. So, outside our church, every Sunday, he would ask me to mimic his steps exactly, meaning I would eventually adopt the gait of a man in his mid-thirties as a child. Just beyond our church in Koreatown, on Wilshire and Normandie, my father would hold me back while letting my brothers enter the service. 
 
 I recall that the other parents outside were also giving their children lessons on etiquette before entering, and I continued with this idea that all churches were this way, attending three times a week until the pandemic. Eventually, I learned better and asked my parents why we attended service farther away when we lived in Boyle Heights, to which my father let me know he and my mother had been members since my father's arrival in the United States after fleeing the Guatemalan Indigenous genocide in 1992. 
 
