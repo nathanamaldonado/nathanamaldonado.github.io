@@ -23,3 +23,20 @@ Thus, before I arrived at ICN, my family reminded me of their experiences, and w
 Following the riots, tensions remained high, and several churches in the area with Spanish services began losing numbers. Yet, the shared market and hustle culture inspired my latest journey into Gwangjang Market for any and all vegetarian options with Nabarissa as my allergies to meat reappeared. Maybe this resurrgence is my sign to follow my parents and attend a service directly after a night with friends. We will see.
 
 
+## \[1\] Soundscape
+
+The idea of a bath with dozens of other men may not appeal to everyone. Still, having frequented traditional sweat lodges with the men in my family, I have become accustomed to such a routine; though, my experience at this bathhouse was anything but customary. 
+
+Upon entering the bathhouse, I was immediately confronted with the soundscape of the city, as the bustling traffic raced alongside pedestrians, and motorcycles evaded traffic by skidding their tires onto pedestrian-only pavement. At the same time, streetcars whirred at red lights, waiting for the moment to force a hiss from their engines when the light turned green. 
+
+Nevertheless, walking up the stairs to the bathhouse prompted me to consider this culture of discretion and a ceremony of whispering, as the attendant requested that I take my shoes off before determining whether I was a decent enough foreigner to meet the expectations of the local clientele. Well, I am; and, I was granted entry. 
+
+After securing my belongings, the associate offered me a washcloth and bath towel, along with the other paraphernalia you would expect at one of these establishments. Well, as I entered the showers, I knew this was not a sauna I would recommend to the other men in my family. No, this was more open-minded. 
+
+Passing through the rooms, however, strengthened my understanding of contemporary living in Seoul, as the sound of lighters igniting cigarettes echoed throughout the first-floor locker room. Whereas, upstairs, the smack of sandals against the tile and wood floors moved almost in unison, calculated to mimic the gait of the man in front of you. 
+
+Before leaving, however, I noticed foreigners speaking English, which also contributed to my acquaintance with the soundscape of Korea, as the influence of the American Empire has led English to become a de facto language, even among those who are not from the Anglophone world. Yet, I would only encounter more of this familiar soundscape upon my arrival in Itaewon. 
+
+Despite most queer nightclubs championing K-pop, Itaewon sits as a mecca for foreign-born and local people interested in dancing and nightlife, meaning weekends in the summer mean promoters grabbing the attention of passersbys as electronic, Latin, and house music fill the streets. Once the night wore off, however, and the bus back to Sinchon arrived, exhausted students chose to respect the peace by practicing silence as early morning commuters head into work.
+
+Eventually, my night (now morning) ended with the Sounds of Seoul running back in my head as I dozed off and almost missed my station. The howls from the sauna, international accents, lighters catching cigarettes, and racing streetcars will definitely be hard to forget. 
