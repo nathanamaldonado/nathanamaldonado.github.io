@@ -16,12 +16,14 @@ My father would often remind me to correct my posture because, at five years old
 
 I recall that the other parents outside were also giving their children lessons on etiquette before entering, and I continued with this idea that all churches were this way, attending three times a week until the pandemic. Eventually, I learned better and asked my parents why we attended service farther away when we lived in Boyle Heights, to which my father let me know he and my mother had been members since my father's arrival in the United States after fleeing the Guatemalan Indigenous genocide in 1992. 
 
-That same year, tensions between minority groups in the area arose, and my dad arrived in Pico-Union. In this nearby ghetto, he naturally found Spanish services offered. It was there that he eventually met my mother and learned English, as she had arrived in the United States nearly a decade prior. My parents found comfort here, but they would often remind me of the struggle in Koreatown following the riots and how, for these reasons, I should be considerate of the space we occupy and how we represent not just our family but people as well. Peace and presentation was the aim, so I wound up sitting on the curb on many an occasion when I could not maintain this appearance as a hyperactive child(allegedly). 
+That same year, tensions between minority groups in the area arose, and my dad arrived in Pico-Union. In this nearby ghetto, he naturally found Spanish services offered. It was there that he eventually met my mother and learned English, as she had arrived in the United States nearly a decade prior. My parents found comfort here, but they would often remind me of the struggle in Koreatown following the riots and how, for these reasons, I should be considerate of the space we occupy and how we represent not just our family but people as well. Peace and presentation was the aim, so I wound up sitting on the curb on many an occasion when I could not maintain this appearance as a hyperactive child (allegedly). 
 
 Thus, before I arrived at ICN, my family reminded me of their experiences, and while I welcomed their input, there lives a clear distinction between the past and present and the unique circumstances of my departure to Seoul. Nevertheless, walking through these neighborhoods, late in Itaewon or bright and early in Sinchon, I am reminded of the fight for visibility on a global scale as I consider how my family's history in Los Angeles is tied to that of the Korean people and diaspora. 
 
 Following the riots, tensions remained high, and several churches in the area with Spanish services began losing numbers. Yet, the shared market and hustle culture inspired my latest journey into Gwangjang Market for any and all vegetarian options with Nabarissa as my allergies to meat reappeared. Maybe this resurrgence is my sign to follow my parents and attend a service directly after a night with friends. We will see.
 
+
+{% include image_caption.html imageurl="/images/apple-watch-in-car.jpg" title="Apple Super" caption="This is the caption" %}
 
 ## \[2\] Soundscape
 

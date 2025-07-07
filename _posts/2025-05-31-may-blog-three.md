@@ -20,8 +20,8 @@ Moreover, meals with both their families provided insight into their curation, a
 
 Well, I landed in San Diego and made the journey to La Jolla with Isaak, only to leave quickly thereafter for Irvine with Ethan, where we were met with horror upon finding my godparents at the same dispensary we had been shopping at. Nevertheless, the shock of those few minutes when my godfather asked which strain I preferred meant very little following the events soon to unfold in New York City. 
 
-Upon my arrival during the New Jersey Transit rail strike, I made the journey to Brooklyn Heights, where I would be living for the Duke in New York program with a randomly assigned roommate. To summarize the situation over these two weeks, I once was showering in our private bathroom and exited briefly into the hallway as Cyril had knocked, only to shout: "Nathan, would you mind hurrying up? I have to use the restroom." Sure, of course. 
+Upon my arrival during the New Jersey Transit rail strike, I still made the tedious journey to Brooklyn Heights, where I would be living for the Duke in New York program with a randomly assigned roommate. To summarize the situation over the past couple of weeks weeks, I once was showering in our bathroom and exited briefly into the hallway as Cyril had knocked while asking "Nathan, would you mind hurrying up? I have to use the restroom." Sure, of course. 
 
-Well, upon stepping into the hallway, he handed me back toiletries, only to start the shower himself. So, I stood there in the hallway wearing only my towel with body wash in one hand and shampoo in the other. Surely, he did not interrupt my shower to shower himself. Well, he did. 
+Well, upon stepping into the hallway, he handed me back toiletries, only to start the shower himself. So, I stood there in the hallway wearing only my bath towel with body wash in one hand and shampoo in the other. Surely, he did not interrupt my shower to shower himself. Well, he did. 
 
 And that has been New York City. 
