@@ -23,7 +23,7 @@ Thus, before I arrived at ICN, my family reminded me of their experiences, and w
 Following the riots, tensions remained high, and several churches in the area with Spanish services began losing numbers. Yet, the shared market and hustle culture inspired my latest journey into Gwangjang Market for any and all vegetarian options with Nabarissa as my allergies to meat reappeared. Maybe this resurrgence is my sign to follow my parents and attend a service directly after a night with friends. We will see.
 
 
-## \[1\] Soundscape
+## \[2\] Soundscape
 
 The idea of a bath with dozens of other men may not appeal to everyone. Still, having frequented traditional sweat lodges with the men in my family, I have become accustomed to such a routine; though, my experience at this bathhouse was anything but customary. 
 
