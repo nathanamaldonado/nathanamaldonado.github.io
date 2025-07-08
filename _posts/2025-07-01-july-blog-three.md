@@ -39,3 +39,19 @@ Before leaving, however, I noticed foreigners speaking English, which also contr
 Despite most queer nightclubs championing K-pop, Itaewon sits as a mecca for foreign-born and local people interested in dancing and nightlife, meaning weekends in the summer mean promoters grabbing the attention of passersbys as electronic, Latin, and house music fill the streets. Once the night wore off, however, and the bus back to Sinchon arrived, exhausted students chose to respect the peace by practicing silence as early morning commuters head into work.
 
 Eventually, my night (now morning) ended with the Sounds of Seoul running back in my head as I dozed off and almost missed my station. The howls from the sauna, international accents, lighters catching cigarettes, and racing streetcars will definitely be hard to forget. 
+
+## \[2\] Cityscape
+
+The fires in Los Angeles earlier this year prompted me to reflect on my adolescence, which was largely defined by dates starting in Downtown Los Angeles and ending with a drive alongside the Pacific Coast Highway, culminating at secluded vistas hidden beneath light pollution and flickering starlight. 
+
+The Wilshire Grand Center in Downtown Los Angeles features a wine bar on the seventy-first floor, offering an unparalleled view of the entire peninsula, with the rolling mountains running alongside the Los Angeles skyline. Since discovering the observation deck after a failed attempt to find parking in DTLA, the Wilshire Grand has seen my courtship evolution as I boast about my city and home to unsuspecting outsiders. 
+
+Furthermore, while living in New York City's Brooklyn Heights, I would take every opportunity for a scenic walk after a full day of classes, sitting for hours and contemplating my life after graduation. Though this was largely due to the herbal refreshments and carcinogenic Chinese cigarettes I had sourced from Flushing, Queens. During one such class, however, my professor proclaimed that the Los Angeles skyline and culture emulated that of New York City, but lying down. 
+
+I had to consider my style and how I was an imitation of these values; I was an Angeleno, and you can see it in my carefree style, demeanor, and attitude. Yet, that of New York City was significantly more alive, evoking a sense of 'on-ness' as each tower serves to mark the permanence, legacy, and power of individuality and creative expression, from the Chrysler Building to the Flatiron Building in Manhattan. 
+
+All of these experiences set the context for my perception of Seoul. After Angela and I arrived from California, we sped in a private car to Sinchon, where the skyline of Incheon merged with that of Seoul, playing off one another like a sibling rivalry. Immediately, Angela and I thought of how the architecture reflected the culture of South Korea. 
+
+Sure, I could talk about how the nail that sticks out gets hammered down, which explains why every building, every person, wants to mimic one another. Still, this generalization largely overlooks how each building serves as someone's home, a life lived from beginning to end within these apartment buildings that stretch from Incheon to Seoul. Each apartment, instead, stands out as part of this effortless ideal, a tenet of Korean culture and values that has been drawn from Buddhism to the contemporary age. 
+
+Sure, each building may look similar, but each stands tall and proud, its chest pumped high above the rest. Now, when I consider the skyline of my hometown in Southern California, I understand this Western notion of individualism, which aims not to serve the collective but to the self, with local cultural attire spread across the landscape.
