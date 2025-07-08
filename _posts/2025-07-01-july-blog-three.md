@@ -40,7 +40,7 @@ Despite most queer nightclubs championing K-pop, Itaewon sits as a mecca for for
 
 Eventually, my night (now morning) ended with the Sounds of Seoul running back in my head as I dozed off and almost missed my station. The howls from the sauna, international accents, lighters catching cigarettes, and racing streetcars will definitely be hard to forget. 
 
-## \[2\] Cityscape
+## \[3\] Cityscape
 
 The fires in Los Angeles earlier this year prompted me to reflect on my adolescence, which was largely defined by dates starting in Downtown Los Angeles and ending with a drive alongside the Pacific Coast Highway, culminating at secluded vistas hidden beneath light pollution and flickering starlight. 
 
