@@ -71,3 +71,17 @@ I have since bought enough pieces to justify (though, not really) purchasing an 
 However, I must be doing something right to bring forward my California style as the students from Yonsei complemented my style, notably JJ whose camaraderie I earned after several impromptu cigarettes at dinner. Later, while waiting in line for a nightclub in Itaewon, Jisoo noticed the Marlboro Reds and custom wallet (which my ex had given me) both stuck out of my front pockets as my new tattoos peaked out slightly, leaving her to give me the Korean name Jimin. Though, as someone not Korean, I will leave it at that and up to your interpretation. 
 
 So, going against the standard men's style of minimalist, loose-fitted clothing has earned me some points, not that I am seeking validation either. But, well, you know...
+
+## \[5\] Food
+
+At ten years old, I learned about love and loss, about life in the sun and shadows. Rather, I was taught these lessons from a control out of mine and felt the weight of lifetime placed onto me. Well, sort of. 
+
+I decided to become vegetarian because of my food allergies and did not eat meat until after my high school graduation when my cousins pressured me into eating a full Caniac combo whose strong fried chicken smell hid the scent of the light ‘herbal refreshments’ we had just partaken. 
+
+Since, my allergies have fluctuated with the intensity of a lifelong relationship, one where we always just miss one another. In any case, they are back now, and my vegetarianism is here to stay for the sanity of myself and loved ones who believe I play too much with my livelihood. 
+
+Thus, my meals back home quickly reverted to those of my childhood: beans, rice, and lentils. Well, being in Seoul has not been any different with rice serving as the fundamental food group and all else a compliment to her uniformity and universality. 
+
+In particular, my favorite meal has been outside of the nightclub street in Itaewon where the proprietor has become accustomed to my service at six in the morning, knowing my order well: kimchi fried rice with an extra side of white rice. This meal comes as a gift to my soul and reminds me of the first time I had experienced the nightlife in Los Angeles after eating only banchan while my family gorged on their decadent meats before announcing they still had enough room for bubble tea. 
+
+While food has not been particularly facile, these issues I would have anywhere else, and I am just lucky my options are not limited to salads and sandwiches. Instead, I can indulge in what I will now remember as a hangover cure before boarding the 110 bus to Sinchon and what was a memory of large meals with my family back home as they struggled with chopsticks. 
