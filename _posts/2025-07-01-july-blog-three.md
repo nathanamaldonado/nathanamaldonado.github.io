@@ -76,7 +76,7 @@ So, going against the standard men's style of minimalist, loose-fitted clothing 
 
 At ten years old, I learned about love and loss, about life in the sun and shadows. Rather, I was taught these lessons from a control out of mine and felt the weight of lifetime placed onto me. Well, sort of. 
 
-I decided to become vegetarian because of my food allergies and did not eat meat until after my high school graduation when my cousins pressured me into eating a full Caniac combo whose strong fried chicken smell hid the scent of the light ‘herbal refreshments’ we had just partaken. 
+I decided to become vegetarian because of my food allergies and did not eat meat until after my high school graduation when my cousins pressured me into eating a full Caniac combo whose strong fried chicken smell hid the scent of the light herbal refreshments. 
 
 Since, my allergies have fluctuated with the intensity of a lifelong relationship, one where we always just miss one another. In any case, they are back now, and my vegetarianism is here to stay for the sanity of myself and loved ones who believe I play too much with my livelihood. 
 
