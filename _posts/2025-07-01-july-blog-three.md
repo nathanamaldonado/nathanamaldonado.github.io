@@ -55,3 +55,19 @@ All of these experiences set the context for my perception of Seoul. After Angel
 Sure, I could talk about how the nail that sticks out gets hammered down, which explains why every building, every person, wants to mimic one another. Still, this generalization largely overlooks how each building serves as someone's home, a life lived from beginning to end within these apartment buildings that stretch from Incheon to Seoul. Each apartment, instead, stands out as part of this effortless ideal, a tenet of Korean culture and values that has been drawn from Confucianism to the contemporary age. 
 
 Sure, each building may look similar, but each stands tall and proud, its chest pumped high above the rest. Now, when I consider the skyline of my hometown in Southern California, I understand this Western notion of individualism, which aims not to serve the collective but to the self, with local cultural attire spread across the landscape.
+
+## \[4\] Fashion
+
+In my senior year of high school, a teacher dress-coded me for the tears in my pants. They were my favorite and only pair of blue jeans, so I stared back at her with no response and sat down in my seat. She urged me again to leave class so that I could call home. 
+
+Not knowing what to say, I quickly responded with: These are my only pair. You are being anti-low income. 
+
+Well, she felt bad and actually ended up writing a letter of recommendation for my application to Duke. In any case, I recognized from then (and even before) that my fashion was largely defined by thrift store finds, inherited pieces, and sentimental yet worn out clothing, making our days-long adventures at different shopping centers in Seoul laboursome as someone whose brother would absolutely lose it if he found out I was shopping for fast fashion items. 
+
+My dedication to avoid these shopping centers is also an instance of my California elitism where everyone wants so badly to be different, yet I am not. Thus, I realized I struck gold after finding a thrift store in Hongdae with clothes in my size and not the standard XXL American sizes you would find at the Goodwill. 
+
+I have since bought enough pieces to justify (though, not really) purchasing an extra luggage home, knowing my younger brothers will have a first round pick at my clothes before my cousins get to the rest. 
+
+However, I must be doing something right to bring forward my California style as the students from Yonsei complemented my style, notably JJ whose camaraderie I earned after several impromptu cigarettes at dinner. Later, while waiting in line for a nightclub in Itaewon, Jisoo noticed the Marlboro Reds and custom wallet (which my ex had given me) both stuck out of my front pockets as my new tattoos peaked out slightly, leaving her to give me the Korean name Jimin. Though, as someone not Korean, I will leave it at that and up to your interpretation. 
+
+So, going against the standard men's style of minimalist, loose-fitted clothing has earned me some points, not that I am seeking validation either. But, well, you know...
