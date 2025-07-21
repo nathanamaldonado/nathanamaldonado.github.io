@@ -1,16 +1,17 @@
 ---
 layout: post
-title: "Seoul (Site Notes)"
+title: "July (Site Notes in Seoul)"
 description: "Duke in Seoul"
 date: 2025-06-30
 feature_image: images/seoulnationalmusuem.jpg
 ---
 
-Hey, everyone! Glad you found your way, but just wanted to say this is where I will be discussing my time in Seoul. If you don't hate me, you could also check out some of my other blog posts or About section to see what it is I actually do here!
+Hi, hi! As part of my international comparative studies course here in Seoul, I chose to upload my site notes to my blog in order to document my experiences in Korea. Please continue reading, but you will probably have to scroll a bunch.
 
 <!--more-->
 
 ## \[1\] First Impressions of Seoul
+### My family's K-Town
 
 My father would often remind me to correct my posture because, at five years old, I would usually lean and hold a conversation with my head tilted off to the side. So, outside our church, every Sunday, he would ask me to mimic his steps exactly, meaning I would eventually adopt the gait of a man in his mid-thirties as a child. Just beyond our church in Koreatown, on Wilshire and Normandie, my father would hold me back while letting my brothers enter the service. 
 
@@ -23,6 +24,7 @@ Thus, before I arrived at ICN, my family reminded me of their experiences, and w
 Following the riots, tensions remained high, and several churches in the area with Spanish services began losing numbers. Yet, the shared market and hustle culture inspired my latest journey into Gwangjang Market for any and all vegetarian options with Nabarissa as my allergies to meat reappeared. Maybe this resurrgence is my sign to follow my parents and attend a service directly after a night with friends. We will see.
 
 ## \[2\] Soundscape
+### Sounds of the bathhouse 
 
 The idea of a bath with dozens of other men may not appeal to everyone. Still, having frequented traditional sweat lodges with the men in my family, I have become accustomed to such a routine; though, my experience at this bathhouse was anything but customary. 
 
@@ -41,6 +43,7 @@ Despite most queer nightclubs championing K-pop, Itaewon sits as a mecca for for
 Eventually, my night (now morning) ended with the Sounds of Seoul running back in my head as I dozed off and almost missed my station. The howls from the sauna, international accents, lighters catching cigarettes, and racing streetcars will definitely be hard to forget. 
 
 ## \[3\] Cityscape
+### Highs and heights
 
 The fires in Los Angeles earlier this year prompted me to reflect on my adolescence, which was largely defined by dates starting in Downtown Los Angeles and ending with a drive alongside the Pacific Coast Highway, culminating at secluded vistas hidden beneath light pollution and flickering starlight. 
 
@@ -57,6 +60,7 @@ Sure, I could talk about how the nail that sticks out gets hammered down, which 
 Sure, each building may look similar, but each stands tall and proud, its chest pumped high above the rest. Now, when I consider the skyline of my hometown in Southern California, I understand this Western notion of individualism, which aims not to serve the collective but to the self, with local cultural attire spread across the landscape.
 
 ## \[4\] Fashion
+### Open-minded thrift stores
 
 In my senior year of high school, a teacher dress-coded me for the tears in my pants. They were my favorite and only pair of blue jeans, so I stared back at her with no response and sat down in my seat. She urged me again to leave class so that I could call home. 
 
@@ -73,6 +77,7 @@ However, I must be doing something right to bring forward my California style as
 So, going against the standard men's style of minimalist, loose-fitted clothing has earned me some points, not that I am seeking validation either. But, well, you know...
 
 ## \[5\] Food
+### I swear I am not normally like this
 
 At ten years old, I learned about love and loss, about life in the sun and shadows. Rather, I was taught these lessons from a control out of mine and felt the weight of lifetime placed onto me. Well, sort of. 
 
@@ -87,6 +92,7 @@ In particular, my favorite meal has been outside of the nightclub street in Itae
 While food has not been particularly facile, these issues I would have anywhere else, and I am just lucky my options are not limited to salads and sandwiches. Instead, I can indulge in what I will now remember as a hangover cure before boarding the 110 bus to Sinchon and what was a memory of large meals with my family back home as they struggled with chopsticks. 
 
 ## \[6\] Gender
+### Riding bikes and in cars with boys
 
 The only time I knew someone to faint was at church when a close friend stopped in her tracks during communion, locked in her stride, and fell to the ground just before receiving the body of Christ. So, it shocked me when the only time I would faint, I earned a lifelong moniker from my father. 
 
@@ -101,6 +107,7 @@ Instead, I am trying to communicate these ideas of what men ought to do, and how
 Men in Korea, regardless of sexuality, will submit to this standard of speech and clothing for nights out. Those wanting more attention, however, would sport either tight-fitted clothing or streetwear instead: “princessas.” This became the confusion for others; though, in the spirit of eternal youth, I hope to never graduate to "La Reina." 
 
 ## \[7\] Open Topic
+### Wait, what time is it in California right now? 
 
 Before I left Los Angeles, my family hosted a block party, and having chosen a school far, far away, these conversations are almost always scripted, ending with their sentiments about how much I have changed from the last time they saw me. 
 
