@@ -88,7 +88,7 @@ While food has not been particularly facile, these issues I would have anywhere 
 
 ## \[6\] Gender
 
-The only time I knew someone to faint was at church when a close friend stopped in her tracks during communion, locked in her stride, and fell to the ground just before receiving the body of Christ. So, it became when the only time I would faint, I would evntually earn a lifelong moniker from my father. 
+The only time I knew someone to faint was at church when a close friend stopped in her tracks during communion, locked in her stride, and fell to the ground just before receiving the body of Christ. So, it shocked me when the only time I would faint, I earned a lifelong moniker from my father. 
 
 After cycling for hours, my shorter legs as a child unable to maintain the pace of my father, I found the desert sun continued to beam down on me with hours left to go and no breaks in sight. Eventually, I wound up on the street with my father standing over me and asking why I was throwing up in the middle of the road. Heat exhaustion. Well, he did not like this exercise of femininity, and I earned the nickname “La Princessa.”
 
@@ -99,3 +99,19 @@ While some behaviors I had to discontinue over fear of the Korean National Polic
 Instead, I am trying to communicate these ideas of what men ought to do, and how my submission into them contradict also the expectations for queer men, so nights in Itaewon seemingly ended with foreigners and locals, men and women, questioning if I was open-minded or interested in play. Jisoo, however, let me know it was specifically the way I dress and act, the superficial window to my self. 
 
 Men in Korea, regardless of sexuality, will submit to this standard of speech and clothing for nights out. Those wanting more attention, however, would sport either tight-fitted clothing or streetwear instead: “princessas.” This became the confusion for others; though, in the spirit of eternal youth, I hope to never graduate to "La Reina." 
+
+## \[7\] Open Topic
+
+Before I left Los Angeles, my family hosted a block party, and having chosen a school far, far away, these conversations are almost always scripted, ending with their sentiments about how much I have changed from the last time they saw me. 
+
+Well, amidst his drunken stupor, my uncle shared with me how proud he had been of my travels around the world. Nevertheless, hidden beneath his empty gaze while asking for the bottle opener from my hands was the vicarious living he had done through my studies, from my life outside of Boyle Heights. He imagined the museums I had roamed, the languages I had heard, the lovers I had taken, and the life I had lived. 
+
+I told him about my upcoming flight to Korea to which he had responded by asking why I was going. I realized then that 1) I do not know how to explain why I chose to study in Korea and 2) my family really does not know much about me. I asked him if he knew what it was I even studied; he looked around for a moment, pulled me in, and whispered “Mijo, I have asked every single person here, and none of us know.” Well.
+
+So, here is my explanation. I started at Duke as a computational linguist in pursuit of solutions for language preservation technologies for indigenous languages. My background as K’iche’ Maya serves as the genesis for my scholarship with the goal of graduate school to persist in my inquiry. 
+
+Though, as graduate programs continue to be slashed during this administration, I have to begin to think more realistically about life after graduation as a rising senior. And, after participating in the Duke in New York program, I began to consider my life as a writer over the Duke path of software engineer or consultant. Seoul, however, fits into this as part of my broader exposure to cultural inquiry and investigation about living. Sure, this may sound made up or like I am dragging on a simple thought about uncertainty. 
+
+However, knowing that my chores in New York City and Seoul would be to 1) live a life and 2) write about it, I knew I could experience some of what it means to be an artist. 
+
+I just do not know how to explain that. 
