@@ -9,7 +9,7 @@
 lang: en-US
 
 # Site title
-title: "Nathan A. Maldonado"
+title: "Nathanael Ja'n Maldonado"
 
 # A description of your site for meta tag, search engine results.
 description: "I fell hard from somewhere not here, and falling is my obsession."
@@ -42,7 +42,7 @@ accent_color: '#f3bfcf'
 
 # Site footer
 footer:
-  content: "&copy; Nathan A. Maldonado"
+  content: "&copy; Nathan Ja'n Maldonado"
   has_social: true
 
 # Plugins
