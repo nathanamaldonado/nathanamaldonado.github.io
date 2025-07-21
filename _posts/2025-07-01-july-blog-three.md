@@ -85,3 +85,17 @@ Thus, my meals back home quickly reverted to those of my childhood: beans, rice,
 In particular, my favorite meal has been outside of the nightclub street in Itaewon where the proprietor has become accustomed to my service at six in the morning, knowing my order well: kimchi fried rice with an extra side of white rice. This meal comes as a gift to my soul and reminds me of the first time I had experienced the nightlife in Los Angeles after eating only banchan while my family gorged on their decadent meats before announcing they still had enough room for bubble tea. 
 
 While food has not been particularly facile, these issues I would have anywhere else, and I am just lucky my options are not limited to salads and sandwiches. Instead, I can indulge in what I will now remember as a hangover cure before boarding the 110 bus to Sinchon and what was a memory of large meals with my family back home as they struggled with chopsticks. 
+
+## \[6\] Gender
+
+The only time I knew someone to faint was at church when a close friend stopped in her tracks during communion, locked in her stride, and fell to the ground just before receiving the body of Christ. So, it became when the only time I would faint, I would evntually earn a lifelong moniker from my father. 
+
+After cycling for hours, my shorter legs as a child unable to maintain the pace of my father, I found the desert sun continued to beam down on me with hours left to go and no breaks in sight. Eventually, I wound up on the street with my father standing over me and asking why I was throwing up in the middle of the road. Heat exhaustion. Well, he did not like this exercise of femininity, and I earned the nickname “La Princessa.”
+
+I understood the performance, so it did not help that I was also allergic to meat and vegetarian as a result. However, these once masculine figures in my life, I tower over, each with minimal legitimacy to my dominion. Yet, my sexuality forces them to question how someone ‘like me,’ could strike open a beer with a knife, roll my own spliffs in a moving car, recite every Latin rock song from their youth, and fall asleep on the table while receiving a spinal tattoo. 
+
+While some behaviors I had to discontinue over fear of the Korean National Police Agency and Chloe's agency, I still found these habits uncommon for those accustomed to a particular gender performance for queer men, even in Korea. And, for those who believe I have disillusioned myself into believing I am a force of vigor, you have missed my point.
+
+Instead, I am trying to communicate these ideas of what men ought to do, and how my submission into them contradict also the expectations for queer men, so nights in Itaewon seemingly ended with foreigners and locals, men and women, questioning if I was open-minded or interested in play. Jisoo, however, let me know it was specifically the way I dress and act, the superficial window to my self. 
+
+Men in Korea, regardless of sexuality, will submit to this standard of speech and clothing for nights out. Those wanting more attention, however, would sport either tight-fitted clothing or streetwear instead: “princessas.” This became the confusion for others; though, in the spirit of eternal youth, I hope to never graduate to "La Reina." 
