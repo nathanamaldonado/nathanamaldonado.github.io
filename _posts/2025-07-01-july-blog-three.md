@@ -124,6 +124,7 @@ However, knowing that my chores in New York City and Seoul would be to 1) live a
 I just do not know how to explain that. 
 
 ## \[8\] Open Topic
+{% include image_caption.html imageurl="/images/meandabuelita.jpg" title="Nathan and his Abuelita" caption="Holding my Abuelita after being scolded by my mother who had taken the photograph" %}
 ### Oh, your mother!
 
 All artists dream, some in the day, some at night. Very few dream in both, and I am no exception. Instead, nightmares wake me routinely, each convincing me that God is real but never enough to attend service. 
