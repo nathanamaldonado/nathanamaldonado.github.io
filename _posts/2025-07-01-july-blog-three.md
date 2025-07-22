@@ -142,7 +142,7 @@ In the years to follow, I would learn to break my mother’s heart a million tim
 
 My mother had dreamt of attending college but was tasked with caring for a family. Though, after bearing only sons, she realized that she could plan our lives differently than if we had been daughters. This would have to be enough. As a homemaker, she took incredible pride in her kitchen and cooking. Who was I to insult her food?
 
-I quit sharing meals with her, and on the off chance we see each other, our family knows not to seat us next to one another. That is family, I tell myself. Still, I miss her cooking. I miss the agua de jamaica she would prepare every summer, the fried plantain she would fix for my birthday, the handmade tortillas she would sear every finals week, the million and a half dishes she knew with stories she never told. 
+I quit sharing meals with her, and on the off chance we see each other, our family knows not to seat us next to one another. That is family, I tell myself. Still, I miss her cooking. I miss the agua de jamaica she would prepare every summer, the fried plantain she would fix for my birthday, the handmade tortillas she would sear every finals week. I estimate she could prepare some million and a half dishes with just as many life stories, though I know she would never share. 
 
 Even after reading chapter one of Zauner’s memoir, I called her. I called my mom, Ama. 
 
