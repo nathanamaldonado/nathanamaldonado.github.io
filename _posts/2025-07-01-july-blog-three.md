@@ -111,7 +111,7 @@ Men in Korea, regardless of sexuality, will submit to this standard of speech an
 
 Before I left Los Angeles, my family hosted a block party, and having chosen a school far, far away, these conversations are almost always scripted, ending with their sentiments about how much I have changed from the last time they saw me. 
 
-Well, amidst his drunken stupor, my uncle shared with me how proud he had been of my travels around the world. Nevertheless, hidden beneath his empty gaze while asking for the bottle opener from my hands was the vicarious living he had done through my studies, from my life outside of Boyle Heights. He imagined the museums I had roamed, the languages I had heard, the lovers I had taken, and the life I had lived. 
+Well, amidst his drunken stupor, my uncle shared with me how proud he had been of my travels around the world. Hidden beneath his empty gaze—as he reached for the bottle opener in my hands—was the quiet, vicarious living he had done through my studies. Outside of my life in Boyle Heights, he imagined the museums I had roamed, the languages I had overheard, the lovers I had taken, and the life I had lived. 
 
 I told him about my upcoming flight to Korea to which he had responded by asking why I was going. I realized then that 1) I do not know how to explain why I chose to study in Korea and 2) my family really does not know much about me. I asked him if he knew what it was I even studied; he looked around for a moment, pulled me in, and whispered “Mijo, I have asked every single person here, and none of us know.” Well.
 
