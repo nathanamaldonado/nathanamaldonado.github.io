@@ -128,22 +128,22 @@ I just do not know how to explain that.
 
 All artists dream, some in the day, some at night. Very few dream in both, and I am no exception. Instead, nightmares wake me routinely, each convincing me that God is real but never enough to attend service. 
 
-Well, in my most recent episode, I stood in my childhood home with my mother behind the kitchen island counter and kid brother standing in the living room directly across. I assume we had just exited an argument, and our dispute turned physical. Here, I collared all the glassware from the dining room and shattered it across the floor. I stood in front of my brother, slashed his legs and shouted once: “Now crawl.” My mother watched. 
+Well, in my most recent episode, I stood in my childhood home with my mother behind the kitchen island counter and kid brother standing in the living room directly across. I assume we had just exited an argument, and our dispute turned physical. Here, I collared all the glassware from the dining room and shattered it across the floor. I stood in front of my brother, slashed his legs and shouted once, “Now crawl.” My mother watched. 
 
-She looked up at me as if this were the first good thing I had done. And, since reading Crying in H Mart, a memoir by Michelle Zauner, I have been forced (yes) to consider her love, these nightmares one of her many punishments. 
+She looked up at me as if this were the first good thing I had done. And, since reading *Crying in H Mart*, a memoir by Michelle Zauner, I have been forced (yes) to consider her love, these nightmares one of her many punishments. 
 
-Your whole life, you hear about heartbreak; but, navigating the feeling of falling out of love with someone could never be explained. I was never an easy baby, and I was not a good boy either. I was born an American, and I was rude. So, I was punished for this, and it makes sense too. 
+Your whole life, you hear about heartbreak; but, no explanation could prepare you for the unraveling of love, especially with your mother. I was never an easy baby, and I was not a good boy either. I was born an American, and I was rude too. So, I was punished for this, and she made sense of it. 
 
 I made trouble for Maria del Carmen, or just ‘Carmen’ in front of my friends she never liked. I could never get it right, so I chose not to. I came home on mushrooms one Christmas; I applied to college without telling anyone; I tattooed my back and chest thinking of my body as hers, something to ruin like permanent marker on the walls.
 
-Our love hurts. Crying in H Mart, however, reminds me of our most volatile argument. Who knows what started it because those things almost never matter. Instead, our back and forth ended with my shouting, “I hate the food you make!” She left for her bedroom. Now, this was not the first time my father came to scold me for how I treated his wife, but this time his script matured. “You broke your mother’s heart.”
+Our love hurts. *Crying in H Mart*, however, reminds me of our most volatile argument. Who knows what started it because those things almost never matter. Instead, our back and forth ended with my shouting, “I hate the food you make!” She left for her bedroom. Now, this was not the first time my father came to scold me for how I treated his wife, but this time his script matured. “You broke your mother’s heart.”
 
 In the years to follow, I would learn to break my mother’s heart a million times over. Yet, this one, this one time I will remember forever. She would be whose heart I break first. 
 
-My mother had dreamt of attending college but was tasked with caring for a family. Though, after bearing only sons, she recognized that she could build our lives as well. This would have to be enough. As a homemaker, she took incredible pride in her kitchen and cooking. Who was I to insult her food?
+My mother had dreamt of attending college but was tasked with caring for a family. Though, after bearing only sons, she realized that she could plan our lives differently than if we had been daughters. This would have to be enough. As a homemaker, she took incredible pride in her kitchen and cooking. Who was I to insult her food?
 
 I quit sharing meals with her, and on the off chance we see each other, our family knows not to seat us next to one another. That is family, I tell myself. Still, I miss her cooking. I miss the agua de jamaica she would prepare every summer, the fried plantain she would fix for my birthday, the handmade tortillas she would sear every finals week, the million and a half dishes she knew with stories she never told. 
 
-After reading chapter one of Zauner’s memoir, I called her. I called my mom. 
+Even after reading chapter one of Zauner’s memoir, I called her. I called my mom, Ama. 
 
-I do not know what to say to her, and what is more than that, I know she does not know either.
+I do not know what to say to her, and I know she does not either.
