@@ -2,7 +2,7 @@
 layout: post
 title: "June 2025"
 description: "Beauty Essay"
-date: 2025-06-29
+date: 2025-06-30
 feature_image: images/fiftiethst.jpg
 ---
 
