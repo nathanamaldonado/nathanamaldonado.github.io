@@ -129,7 +129,7 @@ I just do not know how to explain that.
 
 All artists dream, some in the day, some at night. Very few dream in both, and I am no exception. Instead, nightmares wake me routinely, each convincing me that God is real but never enough to attend service. 
 
-Well, in my most recent episode, I stood in my childhood home with my mother behind the kitchen island counter and kid brother standing in the living room directly across. I assume we had just exited an argument, and our dispute turned physical. Here, I collared all the glassware from the dining room and shattered it across the floor. I stood in front of my brother, slashed his legs and shouted once, “Now crawl.” My mother watched. 
+Well, in my most recent episode, I stood in my childhood home with my mother behind the kitchen island counter and kid brother standing in the living room directly across. I assume we had just exited an argument, and our dispute turned physical. Here, I collared all the glassware from the dining room and shattered it across the floor. I stood in front of my brother, slashed his Achilles' and shouted once, “Now crawl.” My mother watched. 
 
 She looked up at me as if this were the first good thing I had done. And, since reading *Crying in H Mart*, a memoir by Michelle Zauner, I have been forced (yes) to consider her love, these nightmares one of her many punishments. 
 
