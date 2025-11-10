@@ -10,27 +10,26 @@
   <header class="masthead">
     <div class="masthead-top">
       <span>Nathan Maldonado</span>
+      <span>
+        <script>
+          function updateDate() {
+            const dateElement = document.getElementById('current-date');
+            const today = new Date();
 
-      <script>
-        function updateDate() {
-          const dateElement = document.getElementById('current-date');
-          const today = new Date();
+            const options = { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' };
+            const formattedDate = today.toLocaleDateString('en-US', options);
 
-          const options = { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' };
-          const formattedDate = today.toLocaleDateString('en-US', options);
-
-          dateElement.textContent = formattedDate;
-        }
-
-        updateDate();
-      </script>
+            dateElement.textContent = formattedDate;
+          }
+          updateDate();
+        </script>
+      </span>
 
 
 
     </div>
     <h1 class="title">NATHAN MALDONADO</h1>
     <div class="masthead-bottom">
-      <span>ABOUT</span>
       <span>BLOG</span>
       <span>PORTFOLIO</span>
     </div>
@@ -41,16 +40,22 @@
       <h2 class="headline-title">NATHAN MALDONADO</h2>
       <h3 class="headline-sub">THIS IS MY BLOG</h3>
       <p>
-        Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh
-        euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad
-        minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut
-        aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in
-        vulputate velit esse molestie consequat.
+        Hello, I am a first-generation, low-income college student pursuing a degree in linguistics, computer science, and psychology at Duke through the University Scholars Program and Gates Foundation.
       </p>
       <p>
-        Vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio
-        dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait
-        nulla facilisi.
+        I chose Duke because of the opportunity to study K'iche', my family's indigenous language in Guatemala. Following La Violencia in Guatemala, my father hesitated to teach me K'iche', fearing our family would be targeted for being indigenous. The sacrifice my father made meant my identity would be American before Native, and our indigenous culture fell like sand through our fingers. 
+      </p>
+      <p>
+        Beyond my passion to serve a broader indigenous revival effort across the Americas, I am a proud older brother of twins who attend UC Irvine and UC San Diego; I am a polyglot (English, Spanish, French, and K'iche'); I laugh on roller coasters and during psychological thrillers; I failed my written drivers test three times; I got five facial piercings for $25 from a guy offering an unlimited discount. Lastly, I am a California elitist.
+      </p>
+      <p>
+        I started this blog to document my experiences in college as a young adult far from home and, hopefully, give my friends and family life updates. I am originally from Southern California, but my family moved to the Central Valley around the start of my high school career. So, I will usually tell people I am from Los Angeles because that is where I feel closest to home.
+      </p>
+      <p>
+        Nevertheless, I am not on this journey alone. Instead, as you read my blog and updates, you will hear about all the incredible people I have met and all the unbelievable experiences I have shared with them. Each person you meet in college will become part of your story, and I hope to be part of your story as well.
+      </p>
+      <p>
+        Thank You!
       </p>
     </section>
 
