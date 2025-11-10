@@ -10,13 +10,29 @@
   <header class="masthead">
     <div class="masthead-top">
       <span>Nathan Maldonado</span>
-      <span class="date">The current date i think</span>
+
+      <script>
+        function updateDate() {
+          const dateElement = document.getElementById('current-date');
+          const today = new Date();
+
+          const options = { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' };
+          const formattedDate = today.toLocaleDateString('en-US', options);
+
+          dateElement.textContent = formattedDate;
+        }
+
+        updateDate();
+      </script>
+
+
+
     </div>
     <h1 class="title">NATHAN MALDONADO</h1>
     <div class="masthead-bottom">
-      <span>1ST EDITION</span>
-      <span>EVERYDAY IS SOMETHING NEW</span>
-      <span>5 USD</span>
+      <span>ABOUT</span>
+      <span>BLOG</span>
+      <span>PORTFOLIO</span>
     </div>
   </header>
 
