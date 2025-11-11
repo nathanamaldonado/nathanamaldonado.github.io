@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700;900&family=Libre+Baskerville&display=swap');
 
-a:visited {
-  text-decoration-color: inherit;
+.title {
+  color: #111;
 }
 
 body {
@@ -142,6 +142,21 @@ p {
   font-weight: bold;
   letter-spacing: 0.05em;
   transition: color 0.2s ease;
+}
+
+a:link,
+a:visited {
+  color: #000;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #b00;
+  text-decoration: underline;
+}
+
+a:active {
+  color: #000;
 }
 
 
