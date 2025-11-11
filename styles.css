@@ -193,3 +193,80 @@ p {
     width: 100%;
   }
 }
+
+
+/* --- SINGLE POST PAGE --- */
+.single-post {
+  max-width: 850px;
+  margin: 2rem auto;
+  background: #fff;
+  padding: 2rem;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+  border-top: 3px double #000;
+}
+
+.post {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+}
+
+.post-title {
+  font-family: 'Playfair Display', serif;
+  font-weight: 900;
+  text-transform: uppercase;
+  font-size: 2rem;
+  line-height: 1.2;
+  border-bottom: 2px solid #000;
+  padding-bottom: 0.5rem;
+  margin-bottom: 0;
+}
+
+.post-subtitle {
+  font-family: 'Libre Baskerville', serif;
+  font-style: italic;
+  font-size: 1.1rem;
+  margin-top: 0.5rem;
+  margin-bottom: 1.5rem;
+  color: #333;
+}
+
+.post-image {
+  margin: 0;
+  text-align: center;
+}
+
+.post-image img {
+  width: 100%;
+  height: auto;
+  border: 2px solid #000;
+}
+
+.post-image figcaption {
+  font-size: 0.8rem;
+  color: #555;
+  margin-top: 0.5rem;
+}
+
+.post-body {
+  column-count: 2;
+  column-gap: 2rem;
+  text-align: justify;
+  font-size: 0.95rem;
+  line-height: 1.7;
+}
+
+.post-body p {
+  margin-bottom: 1rem;
+}
+
+/* Responsive for smaller devices */
+@media (max-width: 900px) {
+  .post-body {
+    column-count: 1;
+  }
+
+  .post-title {
+    font-size: 1.6rem;
+  }
+}
