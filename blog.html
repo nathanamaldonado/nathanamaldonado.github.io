@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Blog | Nathan Maldonado</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header class="masthead">
+    <div class="masthead-top">
+      <span>Nathan Maldonado</span>
+      <span class="date" id="current-date"></span>
+    </div>
+
+    <h1 class="title">NATHAN MALDONADO</h1>
+
+    <nav class="masthead-bottom">
+      <a href="index.html">HOME</a>
+      <a href="#">PORTFOLIO</a>
+    </nav>
+  </header>
+
+  <main class="content blog-page">
+    <section class="year-section">
+      <h2>2022</h2>
+      <div class="article">
+        <img src="https://via.placeholder.com/400x250" alt="2022 article image">
+        <p>
+            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Perspiciatis hic delectus tempora a nostrum harum, distinctio ipsam. Quaerat, aspernatur fugit. Provident ut itaque harum blanditiis velit deserunt numquam earum saepe.
+        </p>
+      </div>
+    </section>
+
+    <section class="year-section">
+      <h2>2023</h2>
+      <div class="article">
+        <img src="https://via.placeholder.com/400x250" alt="2023 article image">
+        <p>
+            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Perspiciatis hic delectus tempora a nostrum harum, distinctio ipsam. Quaerat, aspernatur fugit. Provident ut itaque harum blanditiis velit deserunt numquam earum saepe.
+        </p>
+      </div>
+    </section>
+
+    <section class="year-section">
+      <h2>2024</h2>
+      <div class="article">
+        <img src="https://via.placeholder.com/400x250" alt="2024 article image">
+        <p>
+            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Perspiciatis hic delectus tempora a nostrum harum, distinctio ipsam. Quaerat, aspernatur fugit. Provident ut itaque harum blanditiis velit deserunt numquam earum saepe.
+        </p>
+      </div>
+    </section>
+
+    <section class="year-section">
+      <h2>2025</h2>
+      <div class="article">
+        <img src="https://via.placeholder.com/400x250" alt="2025 article image">
+        <p>
+            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Perspiciatis hic delectus tempora a nostrum harum, distinctio ipsam. Quaerat, aspernatur fugit. Provident ut itaque harum blanditiis velit deserunt numquam earum saepe.
+        </p>
+      </div>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <p>© 2025 Nathan Maldonado | The Chaos Blog</p>
+  </footer>
+
+  <script>
+    const dateElement = document.getElementById('current-date');
+    const today = new Date();
+    const options = { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' };
+    dateElement.textContent = today.toLocaleDateString('en-US', options);
+  </script>
+</body>
+</html>

@@ -116,3 +116,80 @@ p {
     gap: 0.3rem;
   }
 }
+
+/*
+  The following is for the blog overview
+*/
+
+/* --- NAVIGATION --- */
+.masthead-bottom {
+  display: flex;
+  justify-content: center;
+  gap: 2rem;
+  border-top: 1px solid #000;
+  border-bottom: 1px solid #000;
+  padding: 0.5rem 0;
+}
+
+.masthead-bottom a {
+  text-decoration: none;
+  color: #000;
+  font-weight: bold;
+  letter-spacing: 0.05em;
+  transition: color 0.2s ease;
+}
+
+.masthead-bottom a:hover {
+  color: #b00;
+}
+
+/* --- BLOG PAGE STYLING --- */
+.blog-page {
+  display: flex;
+  flex-direction: column;
+  gap: 3rem;
+}
+
+.year-section {
+  border-top: 2px solid #000;
+  padding-top: 1rem;
+}
+
+.year-section h2 {
+  font-family: 'Playfair Display', serif;
+  text-transform: uppercase;
+  font-weight: 900;
+  font-size: 1.4rem;
+  margin-bottom: 1rem;
+  border-bottom: 1px dashed #000;
+  display: inline-block;
+}
+
+.article {
+  display: flex;
+  flex-direction: row;
+  gap: 1.5rem;
+  align-items: flex-start;
+}
+
+.article img {
+  width: 40%;
+  height: auto;
+  border: 1px solid #000;
+  background: #eee;
+}
+
+.article p {
+  flex: 1;
+  text-align: justify;
+}
+
+/* Responsive */
+@media (max-width: 700px) {
+  .article {
+    flex-direction: column;
+  }
+  .article img {
+    width: 100%;
+  }
+}
