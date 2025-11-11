@@ -1,8 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700;900&family=Libre+Baskerville&display=swap');
-
-.title {
-  color: #111;
-}
+@import url('https://fonts.googleapis.com/css2?family=Trade+Winds&display=swap');
 
 body {
   font-family: 'Libre Baskerville', serif;
@@ -34,8 +31,10 @@ body {
 }
 
 .title {
-  font-family: 'Playfair Display', serif;
+  color: #111;
+  font-family: "Trade Winds", system-ui;
   font-weight: 900;
+  font-style: normal;
   font-size: 3rem;
   letter-spacing: 0.1em;
   margin: 0.5rem 0;
@@ -152,6 +151,7 @@ a:visited {
 
 a:hover {
   color: #b00;
+  text-decoration: none;
 }
 
 a:active {
