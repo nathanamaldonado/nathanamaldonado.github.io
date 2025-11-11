@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Blog Post | Nathan Maldonado</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header class="masthead">
+    <div class="masthead-top">
+      <span class="date" id="current-date"></span>
+    </div>
+
+    <h1 class="title">
+        <a href="index.html">NATHAN MALDONADO</a>
+    </h1>
+
+    <nav class="masthead-bottom">
+      <a href="blog.html">BLOG</a>
+      <a href="#">PORTFOLIO</a>
+    </nav>
+  </header>
+
+  <main class="content single-post">
+    <article class="post">
+      <h2 class="post-title">The Turning Point in Design Philosophy</h2>
+      <h3 class="post-subtitle"><em>How simplicity and structure define true creativity</em></h3>
+
+      <figure class="post-image">
+        <img src="https://via.placeholder.com/800x400" alt="Article featured image">
+        <figcaption>Photo by Nathan Maldonado, 2025</figcaption>
+      </figure>
+
+      <div class="post-body">
+        <p>
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut vehicula, lorem a
+          egestas vulputate, lectus sapien bibendum erat, vitae pulvinar ligula augue a
+          nunc. Proin finibus, sapien vel ultrices efficitur, justo libero viverra felis,
+          sed sagittis lorem augue ut massa.
+        </p>
+
+        <p>
+          Suspendisse ut ligula in est euismod fringilla. Integer nec diam nec enim dictum
+          vestibulum. Sed convallis dui ac arcu ultrices, vel volutpat nisl luctus. Nunc
+          faucibus libero ut urna condimentum convallis. Curabitur vel ultricies augue.
+        </p>
+
+        <p>
+          Duis ullamcorper sem a nunc porttitor, a volutpat sapien porttitor. Donec mollis
+          lacus justo, nec porttitor purus tincidunt et. Vivamus faucibus, orci vitae
+          dignissim finibus, felis metus feugiat elit, at ultricies nisi sem ac urna.
+        </p>
+      </div>
+    </article>
+  </main>
+
+  <footer class="footer">
+    <p>© 2025 Nathan Maldonado</p>
+  </footer>
+
+  <script>
+    const dateElement = document.getElementById('current-date');
+    const today = new Date();
+    const options = { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' };
+    dateElement.textContent = today.toLocaleDateString('en-US', options);
+  </script>
+</body>
+</html>
