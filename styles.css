@@ -283,3 +283,12 @@ a:active {
     font-size: 1.6rem;
   }
 }
+
+body {
+  background-image: url('img/subtle-dots.png');
+  background-repeat: repeat;
+  background-size: 400px 400px;
+  color: #111;
+  margin: 0;
+  padding: 0;
+}
