@@ -10,22 +10,7 @@
   <header class="masthead">
     <div class="masthead-top">
       <span>Nathan Maldonado</span>
-      <span>
-        <script>
-          function updateDate() {
-            const dateElement = document.getElementById('current-date');
-            const today = new Date();
-
-            const options = { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' };
-            const formattedDate = today.toLocaleDateString('en-US', options);
-
-            dateElement.textContent = formattedDate;
-          }
-          updateDate();
-        </script>
-      </span>
-
-
+      <span class="date" id="current-date"></span>
 
     </div>
     <h1 class="title">NATHAN MALDONADO</h1>
@@ -37,8 +22,8 @@
 
   <main class="content">
     <section class="headline">
-      <h2 class="headline-title">NATHAN MALDONADO</h2>
-      <h3 class="headline-sub">THIS IS MY BLOG</h3>
+      <h2 class="headline-title">NORTH CAROLINA INDIE WITH A SOUTHERN CALIFORNIA SHTICK</h2>
+      <h3 class="headline-sub">WHAT I SOMETIMES GET UP TO</h3>
       <p>
         Hello, I am a first-generation, low-income college student pursuing a degree in linguistics, computer science, and psychology at Duke through the University Scholars Program and Gates Foundation.
       </p>
@@ -60,7 +45,7 @@
     </section>
 
     <section class="side-article">
-      <h3><em>I am not sure what this will be about just yet</em></h3>
+      <h3><em>Where is your head at?</em></h3>
       <div class="columns">
         <p>
           Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh
@@ -83,5 +68,19 @@
   <footer class="footer">
     <p>© 2025 Nathan Maldonado | Designed for you to read</p>
   </footer>
+
+    <script>
+    function updateDate() {
+      const dateElement = document.getElementById('current-date');
+      const today = new Date();
+
+      const options = { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' };
+      const formattedDate = today.toLocaleDateString('en-US', options);
+
+      dateElement.textContent = formattedDate;
+    }
+    updateDate();
+  </script>
+
 </body>
 </html>
