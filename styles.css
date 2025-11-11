@@ -1,5 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700;900&family=Libre+Baskerville&display=swap');
 
+a:visited {
+  color: inherit;
+}
+
 body {
   font-family: 'Libre Baskerville', serif;
   background: #e7e6e7;
@@ -39,7 +43,7 @@ body {
   border-bottom: 2px solid #000;
   display: inline-block;
   padding: 0.25rem 0.5rem;
-  background: #fff;
+  background: #e7e6e7;
 }
 
 .content {
