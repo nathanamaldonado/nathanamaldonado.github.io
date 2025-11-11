@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700;900&family=Libre+Baskerville&display=swap');
 
 a:visited {
-  text-decoration: none;
+  text-decoration-color: inherit;
 }
 
 body {
@@ -144,9 +144,6 @@ p {
   transition: color 0.2s ease;
 }
 
-.masthead-bottom a:hover {
-  color: #b00;
-}
 
 /* --- BLOG PAGE STYLING --- */
 .blog-page {
